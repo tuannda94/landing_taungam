@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lưu trữ Đội thi UI/UX - UI/UX News</title>
+	<atom:link href="https://uiuxhackathon.com/news/category/doi-thi-ui-ux/feed" rel="self" type="application/rss+xml" />
+	<link>https://uiuxhackathon.com/news</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 03 Oct 2022 08:14:37 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Đội thi &#8220;Hay ra dẻ quá&#8221;</title>
+		<link>https://uiuxhackathon.com/news/doi-thi-hay-ra-de-qua</link>
+					<comments>https://uiuxhackathon.com/news/doi-thi-hay-ra-de-qua#respond</comments>
+		
+		<dc:creator><![CDATA[tranbaho]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 08:10:54 +0000</pubDate>
+				<category><![CDATA[Đội thi UI/UX]]></category>
+		<guid isPermaLink="false">https://uiuxhackathon.com/news/?p=1718</guid>
+
+					<description><![CDATA[<p>Link bài thiết kế:  Link thuyết trình: </p>
+<p>Bài viết <a rel="nofollow" href="https://uiuxhackathon.com/news/doi-thi-hay-ra-de-qua">Đội thi &#8220;Hay ra dẻ quá&#8221;</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://uiuxhackathon.com/news">UI/UX News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1718" class="elementor elementor-1718" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-628d7fc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="628d7fc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d674ae6" data-id="d674ae6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0254536 elementor-widget elementor-widget-text-editor" data-id="0254536" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Link bài thiết kế: </p></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-075a3b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="075a3b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47e722a" data-id="47e722a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fccb7f7 elementor-widget elementor-widget-text-editor" data-id="fccb7f7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Link thuyết trình: </p></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>Bài viết <a rel="nofollow" href="https://uiuxhackathon.com/news/doi-thi-hay-ra-de-qua">Đội thi &#8220;Hay ra dẻ quá&#8221;</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://uiuxhackathon.com/news">UI/UX News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://uiuxhackathon.com/news/doi-thi-hay-ra-de-qua/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

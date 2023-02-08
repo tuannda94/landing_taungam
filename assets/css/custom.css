@@ -1,0 +1,18 @@
+.bg-gray{
+    background-color: #f5b560 !important;
+}
+.table-striped td, .table-striped th{
+    color: white !important;
+    border: 1px solid;
+}
+#bodytxt strong{
+    font-size: 20px;
+}
+.table-striped{
+    width: 95%;
+    margin: auto;
+}
+#bodytxt{
+    font-size: 13px;
+    line-height: 22px;
+}
