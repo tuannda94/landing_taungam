@@ -16,3 +16,25 @@
     font-size: 13px;
     line-height: 22px;
 }
+#logo_img{
+    width: 275px;
+}
+#caption-img{
+    width: 500px;
+}
+.giaithuong{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxlotrinh_content{
+    font-size: 18px;
+    position: relative;
+}
+.boxlotrinh_content p{
+    position: absolute;
+    bottom: 5px;
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+}
