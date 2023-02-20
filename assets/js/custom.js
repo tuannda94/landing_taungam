@@ -102,7 +102,7 @@
             }, 1000);
         }
         // initializeClock(((new Date()).getFullYear()+1) + "/1/1")
-        initializeClock("12/10/2022");
+        initializeClock("05/30/2023");
         //alert((new Date()).getFullYear() + 1);
     })()
 
