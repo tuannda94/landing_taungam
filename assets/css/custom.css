@@ -38,8 +38,21 @@
     left: 50%;
     transform: translateX(-50%);
 }
-
-
+@font-face {
+    font-family: myFirstFont;
+    src: url('SVN-MissionX.otf');
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: myFirstFont !important;
+    font-weight: normal !important;
+}
+#tabs ul{
+    display: flex;
+    justify-content: space-between;
+}
+#tabs ul li{
+    flex: 1;
+}
 
 
 @media only screen and (max-width: 600px) {
